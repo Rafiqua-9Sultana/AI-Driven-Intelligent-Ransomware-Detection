@@ -1,0 +1,44 @@
+# Python virtual environments
+.venv/
+.venv-local/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Python packages and testing
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+
+# IDE files
+.vscode/
+.idea/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Node dependencies and build files
+node_modules/
+dist/
+build/
+
+# Generated model artifacts
+detection-engine/models/*
+!detection-engine/models/.gitkeep
+
+# Local simulation and runtime data
+detection-engine/demo_folder/*
+!detection-engine/demo_folder/.gitkeep
+
+# Large project archive
+Ransomeware_detection_system.zip
+
+# Operating system files
+.DS_Store
+Thumbs.db

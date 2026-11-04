@@ -1,0 +1,4 @@
+Experiment,Features,Accuracy,Precision,Recall,F1,ROC_AUC
+All Features,19,1.0,1.0,1.0,1.0,1.0
+Without Suspicious Extension,18,1.0,1.0,1.0,1.0,1.0
+Behavioral Only,15,1.0,1.0,1.0,1.0,1.0
