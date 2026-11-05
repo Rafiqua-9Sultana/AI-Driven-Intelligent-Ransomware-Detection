@@ -106,7 +106,39 @@ React Dashboard
         v
 Detection Results & Alerts
 ```
+---
 
+## 🖥️ Dashboard Preview
+
+The system provides an interactive dashboard for monitoring file activities, identifying ransomware-like behaviour, viewing detection history, and analysing security events.
+
+### 1. Main Dashboard
+
+![Main Dashboard](demo/screenshots/dashboard-1.png)
+
+### 2. Detection Monitoring
+
+![Detection Monitoring](demo/screenshots/dashboard-2.png)
+
+### 3. Detection Analysis
+
+![Detection Analysis](demo/screenshots/dashboard-3.png)
+
+### 4. Security Analytics
+
+![Security Analytics](demo/screenshots/dashboard-4.png)
+
+### 5. Detection Insights
+
+![Detection Insights](demo/screenshots/dashboard-5.png)
+
+### 📄 Complete Dashboard Screenshots
+
+For the complete collection of dashboard screenshots, view the PDF below.
+
+[📥 View Dashboard Screenshots (PDF)](demo/Dashboard-Screenshots.pdf)
+
+---
 ## 🛠️ Technologies Used
 
 | Category | Technologies |
